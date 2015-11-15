@@ -10,20 +10,20 @@ npm -g install mocha.
 
 En el archivo test.js añadimos el siguiente código:
 
-  'use strict';
+    'use strict';
 
-  var prueba = require('../lib/server');
-  var assert = require("assert");
+    var prueba = require('../lib/server');
+    var assert = require("assert");
 
 
-  describe("TEST",function(){
-  it('Creación de empresas', function(done) {
-      prueba.insertarEmpresa("EMPRESA01",12); 
-      prueba.comprobacion("EMPRESA01",function(err,resultado){
-			  assert.equal(resultado, true)});
-      done();
+    describe("TEST",function(){
+    it('Creación de empresas', function(done) {
+        prueba.insertarEmpresa("EMPRESA01",12); 
+        prueba.comprobacion("EMPRESA01",function(err,resultado){
+			    assert.equal(resultado, true)});
+        done();
+      });
     });
-  });
 
 
   
