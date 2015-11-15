@@ -28,4 +28,4 @@ Con el que obtenemos en travis:
 
 Esto es devido a la versión de nvm de la que dispongo puesto que ejecutando el test en terminal obtengo lo siguiente:
 
-![](travis05.png)
+![](http://googledrive.com/host/0B6Q-phIC3pUpblVzUS1RbEZjb1E/travis05.png)
