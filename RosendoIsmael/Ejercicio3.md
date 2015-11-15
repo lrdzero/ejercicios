@@ -4,7 +4,7 @@ Llevamos a cabo lo siguiente
 
 nvm ls-remote
 
-![](http://googledrive.com/host/0B6Q-phIC3pUpblVzUS1RbEZjb1E/Image1ejercicio3.png)
+![ejer3_img1](http://googledrive.com/host/0B6Q-phIC3pUpblVzUS1RbEZjb1E/Image1ejercicio3.png)
 
 tras esto instalamos otra versión por ejemplo v4.2.0
 
