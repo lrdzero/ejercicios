@@ -28,11 +28,11 @@ Reconoce el Dockerfile
 
 y finalmente construye la versión.
 
-![](snapshot27.png)
+![](http://googledrive.com/host/0B6Q-phIC3pUpblVzUS1RbEZjb1E/snapshot27.png)
 
 
 Finalmente si queremos bajarnoslo ejecutamos:
 
     sudo docker pull lrdzer/ccproyect
     
-![](snapshot28.png)
+![](http://googledrive.com/host/0B6Q-phIC3pUpblVzUS1RbEZjb1E/snapshot28.png)
